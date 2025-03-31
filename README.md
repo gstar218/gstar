@@ -1,3 +1,3 @@
 # gstar
 
-how to learn Programming?
+how to learn C++?
