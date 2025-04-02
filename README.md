@@ -1,3 +1,3 @@
 # gstar
 
-how to learn C++?
+how to learn Python?
